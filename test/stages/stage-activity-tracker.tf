@@ -1,4 +1,4 @@
-module "dev_logdna" {
+module "dev_activity_tracker" {
   source = "./module"
 
   resource_group_name      = var.resource_group_name
