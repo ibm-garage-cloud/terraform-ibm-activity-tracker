@@ -38,6 +38,7 @@ versions:
         description: Flag indicating that the instance should be provisioned
         optional: true
     version: v1.1.4
+    outputs: []
   - platforms: []
     dependencies: []
     variables:
@@ -68,10 +69,4 @@ versions:
         description: Flag indicating that the instance should be provisioned
         optional: true
     version: v1.1.3
-    outputs:
-      - name: output "my
-        description: output "my
-      - name: 'output" { #  description = "Description of my'
-        description: 'output" { #  description = "Description of my'
-      - name: 'output" #  value       = "value" #  depends_on  = [<some resource>] #}'
-        description: 'output" #  value       = "value" #  depends_on  = [<some resource>] #}'
+    outputs: []
