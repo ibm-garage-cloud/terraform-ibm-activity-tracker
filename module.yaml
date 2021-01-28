@@ -17,4 +17,4 @@ versions:
       alias: region
     - name: name_prefix
       scope: global
-
+  outputs: []
